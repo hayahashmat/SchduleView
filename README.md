@@ -1,4 +1,4 @@
-# SchduleView
+# ScheduleView
 
 This is a scheduleView which will help you to set the date and time wherever you want to schedule any thing in your application.
 
